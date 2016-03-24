@@ -2,6 +2,9 @@
 eLryrics,Android application, to study english via popular song and TED video with lyrics
 <a href="http://photran.me/wp-content/uploads/2015/02/ic_launcher-web.png"><img class="size-medium wp-image-209 aligncenter" src="http://photran.me/wp-content/uploads/2015/02/ic_launcher-web-300x300.png" alt="ic_launcher-web" width="300" height="300" /></a>
 
+<strong>eLyrics use Firebase 
+https://github.com/ttpho/eLyrics-Firebase (replace Parse)
+</strong
 
 
 I create eLryrics Android to study Material Design. But I can't public app on Google Play because promotional screenshots must not contain images that appear confusingly similar to existing products.

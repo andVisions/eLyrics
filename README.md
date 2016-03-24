@@ -20,16 +20,13 @@ eLryrics  to study english via popular song and TED video with lyrics
 </a> <a href="http://photran.me/wp-content/uploads/2015/02/0176b0d1-b063-4353-9922-45707e9ca43a.png">
 </a><a href="http://photran.me/wp-content/uploads/2015/02/0176b0d1-b063-4353-9922-45707e9ca43a.png"><img class="aligncenter wp-image-203 size-large" src="http://photran.me/wp-content/uploads/2015/02/0d4cbd9e-e4f5-4b3d-b962-7431c0e06800-613x1024.png" alt="0d4cbd9e-e4f5-4b3d-b962-7431c0e06800" width="613" height="1024" /></a><a href="http://photran.me/wp-content/uploads/2015/02/0176b0d1-b063-4353-9922-45707e9ca43a.png"><img class="aligncenter wp-image-206 size-large" src="http://photran.me/wp-content/uploads/2015/02/218bea3d-dcb3-481e-89ad-c4263bc2bce8-613x1024.png" alt="218bea3d-dcb3-481e-89ad-c4263bc2bce8" width="613" height="1024" /></a><a href="http://photran.me/wp-content/uploads/2015/02/0176b0d1-b063-4353-9922-45707e9ca43a.png"><img class="aligncenter wp-image-205 size-large" src="http://photran.me/wp-content/uploads/2015/02/0176b0d1-b063-4353-9922-45707e9ca43a-1024x613.png" alt="0176b0d1-b063-4353-9922-45707e9ca43a" width="634" height="379" /></a>
 
-<strong><a title="APK File" href="https://drive.google.com/file/d/0B3i8zKFHmqE6TF9reGdocGpQQ28/view?usp=sharing" target="_blank">APK File
-
-</strong>
+<a title="APK File" href="https://drive.google.com/file/d/0B3i8zKFHmqE6TF9reGdocGpQQ28/view?usp=sharing" target="_blank">APK File</a>
 
 Readmore
 <h3>http://photran.me/elyrics/</h3>
 
-<strong><a title="How to import json file in database" href="https://www.youtube.com/watch?v=3H_SM35wnpA&feature=youtu.be
-" target="_blank">How to import json file in database
-</strong>
+<a title="How to import json file in database" href="https://www.youtube.com/watch?v=3H_SM35wnpA&feature=youtu.be
+" target="_blank">How to import json file in database </a>
 
 
 =========================
